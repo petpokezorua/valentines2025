@@ -22,3 +22,19 @@ body {
     max-width: 500px; 
     height: auto; 
 }
+
+.link-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: #4caf50;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.link-button:hover {
+    background-color: #45a049;
+}
